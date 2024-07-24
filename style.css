@@ -1,0 +1,21 @@
+
+.c-item{
+    height: 500px;
+
+}
+
+.c-img{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(.6);
+}
+
+.overview{
+    height: 180px;
+    background-color: rgb(152, 68, 121);
+}
+
+.overview2{
+    height: 180px;
+    background-color: rgb(156, 222, 222);
+}
